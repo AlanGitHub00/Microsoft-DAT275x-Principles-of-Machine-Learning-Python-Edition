@@ -7,6 +7,6 @@ In 1998, the Adventure Works Cycles company collected a large volume of data abo
 
 In this project, you must tackle three challenges:
 
-Challenge 1: Explore the data and gain some insights into Adventure Works customer characteristics and purchasing behavior.
-Challenge 2: Build a classification model to predict customer purchasing behavior.
+Challenge 1: Explore the data and gain some insights into Adventure Works customer characteristics and purchasing behavior. <br>
+Challenge 2: Build a classification model to predict customer purchasing behavior.<br>
 Challenge 3: Build a regression model to predict customer purchasing behavior.
